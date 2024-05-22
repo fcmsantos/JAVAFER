@@ -1,6 +1,6 @@
 # JAVAFER
 Meu nome é Fernanda
-Sou professora de Tecnologia
-Estou usando a plataforma ALURA✌
+sou professora de Tecnologia
+estou usando a plataforma ALURA✌
 
-![](link)
+![Gatinho]([link](https://tenor.com/pt-BR/view/luna-cat-crunchy-cat-glasses-cat-luna-glasses-cat-gif-12732289841207803174))
